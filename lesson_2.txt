@@ -6,3 +6,23 @@ How is the staging area different from the working directory and the repository?
 
 	The staging area is an area to get ready for commits. its different because it is where we connect to add to the Github.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+	You can add only 1 file if yo so choose to only push 1 change then the next change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	When you want to make an experimental code addition so you can keep that code seperate form the main code. Keep master from breaking.
+
+How do the diagrams help you visualize the branch structure?
+
+	By allowing you to see where they connect.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	We get a single branch which has changes from both branches. to make sure we can follow it easily.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Could make mistakes or see somehting as a mistake when its not. pros are it makes it easy to check for differences.
+
