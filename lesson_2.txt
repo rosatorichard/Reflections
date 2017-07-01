@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 	it creates an emty repository in a location. you do this to set up you repositoty. you use git init.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	The staging area is an area to get ready for commits. its different because it is where we connect to add to the Github.
+
